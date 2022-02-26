@@ -12,13 +12,13 @@
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string>iWeb Store</string>
+            <string>title</string>
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>https://hacknorris-aka-penguin.github.io/iweb-store/list.html</string>
+            <string>https://link.to/app.html</string>
             <key>PayloadIdentifier</key>
-            <string>com.hacknorris.iwebstore</string>
+            <string>com.user.lowercasetitle</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
@@ -28,11 +28,11 @@
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>iWeb Store</string>
+    <string>title</string>
     <key>PayloadDescription</key>
-    <string>a free app store for free apps. fully online and opensource. based on profiles like this.</string>
+    <string>description</string>
     <key>PayloadIdentifier</key>
-    <string>com.hacknorris.iwebstore</string>
+    <string>com.user.lowercasetitle</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
