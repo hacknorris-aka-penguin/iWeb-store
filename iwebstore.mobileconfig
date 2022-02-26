@@ -1,0 +1,43 @@
+<?xml version=”1.0” encoding=”UTF-8”?>
+<!DOCTYPE plist PUBLIC “-//Apple//DTD PLIST 1.0//EN” “http://www.apple.com/DTDs/PropertyList-1.0.dtd”>
+<plist version=”1.0”>
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IgnoreManifestScope</key>
+            <false/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>iWeb Store</string>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+            <string>https://hacknorris-aka-penguin.github.io/iweb-store/list.html</string>
+            <key>PayloadIdentifier</key>
+            <string>com.hacknorris.iwebstore</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>cb0d095a-3c9b-438a-8a1b-dcbf440532a1</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>iWeb Store</string>
+    <key>PayloadDescription</key>
+    <string>a free app store for free apps. fully online and opensource. based on profiles like this.</string>
+    <key>PayloadIdentifier</key>
+    <string>com.hacknorris.iwebstore</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>51c0fa46-53cc-46ef-91c5-58fd9eca5c72</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
