@@ -2,8 +2,8 @@
 name: app request
 about: adding new app to list
 title: "[app] - "
-labels: app request
-assignees: ''
+labels: "app request"
+assignees: 'hacknorris-aka-penguin'
 
 ---
 
