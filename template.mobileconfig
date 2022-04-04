@@ -18,7 +18,7 @@
             <key>URL</key>
             <string>https://link.to/app.html</string>
             <key>PayloadIdentifier</key>
-            <string>com.user.lowercasetitle</string>
+            <string>com.user.app</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
@@ -32,7 +32,7 @@
     <key>PayloadDescription</key>
     <string>description</string>
     <key>PayloadIdentifier</key>
-    <string>com.user.lowercasetitle</string>
+    <string>com.user.app</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
